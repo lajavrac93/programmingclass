@@ -1,7 +1,0 @@
-F:\rcm\documentos\Desarrollo de videojuegos\VisualStudio\Ejericio1UsuarioSuma\Ejericio1UsuarioSuma\bin\Debug\Ejericio1UsuarioSuma.exe.config
-F:\rcm\documentos\Desarrollo de videojuegos\VisualStudio\Ejericio1UsuarioSuma\Ejericio1UsuarioSuma\bin\Debug\Ejericio1UsuarioSuma.exe
-F:\rcm\documentos\Desarrollo de videojuegos\VisualStudio\Ejericio1UsuarioSuma\Ejericio1UsuarioSuma\bin\Debug\Ejericio1UsuarioSuma.pdb
-F:\rcm\documentos\Desarrollo de videojuegos\VisualStudio\Ejericio1UsuarioSuma\Ejericio1UsuarioSuma\obj\Debug\Ejericio1UsuarioSuma.csprojAssemblyReference.cache
-F:\rcm\documentos\Desarrollo de videojuegos\VisualStudio\Ejericio1UsuarioSuma\Ejericio1UsuarioSuma\obj\Debug\Ejericio1UsuarioSuma.csproj.CoreCompileInputs.cache
-F:\rcm\documentos\Desarrollo de videojuegos\VisualStudio\Ejericio1UsuarioSuma\Ejericio1UsuarioSuma\obj\Debug\Ejericio1UsuarioSuma.exe
-F:\rcm\documentos\Desarrollo de videojuegos\VisualStudio\Ejericio1UsuarioSuma\Ejericio1UsuarioSuma\obj\Debug\Ejericio1UsuarioSuma.pdb

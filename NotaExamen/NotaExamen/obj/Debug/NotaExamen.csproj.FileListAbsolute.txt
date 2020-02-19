@@ -1,7 +1,0 @@
-F:\rcm\documentos\Desarrollo de videojuegos\VisualStudio\NotaExamen\NotaExamen\obj\Debug\NotaExamen.csprojAssemblyReference.cache
-F:\rcm\documentos\Desarrollo de videojuegos\VisualStudio\NotaExamen\NotaExamen\obj\Debug\NotaExamen.csproj.CoreCompileInputs.cache
-F:\rcm\documentos\Desarrollo de videojuegos\VisualStudio\NotaExamen\NotaExamen\bin\Debug\NotaExamen.exe.config
-F:\rcm\documentos\Desarrollo de videojuegos\VisualStudio\NotaExamen\NotaExamen\bin\Debug\NotaExamen.exe
-F:\rcm\documentos\Desarrollo de videojuegos\VisualStudio\NotaExamen\NotaExamen\bin\Debug\NotaExamen.pdb
-F:\rcm\documentos\Desarrollo de videojuegos\VisualStudio\NotaExamen\NotaExamen\obj\Debug\NotaExamen.exe
-F:\rcm\documentos\Desarrollo de videojuegos\VisualStudio\NotaExamen\NotaExamen\obj\Debug\NotaExamen.pdb

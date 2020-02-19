@@ -1,7 +1,0 @@
-F:\rcm\documentos\Desarrollo de videojuegos\VisualStudio\EsParImpar\EsParImpar\bin\Debug\EsParImpar.exe.config
-F:\rcm\documentos\Desarrollo de videojuegos\VisualStudio\EsParImpar\EsParImpar\bin\Debug\EsParImpar.exe
-F:\rcm\documentos\Desarrollo de videojuegos\VisualStudio\EsParImpar\EsParImpar\bin\Debug\EsParImpar.pdb
-F:\rcm\documentos\Desarrollo de videojuegos\VisualStudio\EsParImpar\EsParImpar\obj\Debug\EsParImpar.csprojAssemblyReference.cache
-F:\rcm\documentos\Desarrollo de videojuegos\VisualStudio\EsParImpar\EsParImpar\obj\Debug\EsParImpar.csproj.CoreCompileInputs.cache
-F:\rcm\documentos\Desarrollo de videojuegos\VisualStudio\EsParImpar\EsParImpar\obj\Debug\EsParImpar.exe
-F:\rcm\documentos\Desarrollo de videojuegos\VisualStudio\EsParImpar\EsParImpar\obj\Debug\EsParImpar.pdb

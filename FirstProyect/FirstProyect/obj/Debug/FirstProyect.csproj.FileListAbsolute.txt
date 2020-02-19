@@ -1,7 +1,0 @@
-F:\rcm\documentos\Desarrollo de videojuegos\VisualStudio\FirstProyect\FirstProyect\bin\Debug\FirstProyect.exe.config
-F:\rcm\documentos\Desarrollo de videojuegos\VisualStudio\FirstProyect\FirstProyect\bin\Debug\FirstProyect.exe
-F:\rcm\documentos\Desarrollo de videojuegos\VisualStudio\FirstProyect\FirstProyect\bin\Debug\FirstProyect.pdb
-F:\rcm\documentos\Desarrollo de videojuegos\VisualStudio\FirstProyect\FirstProyect\obj\Debug\FirstProyect.csprojAssemblyReference.cache
-F:\rcm\documentos\Desarrollo de videojuegos\VisualStudio\FirstProyect\FirstProyect\obj\Debug\FirstProyect.csproj.CoreCompileInputs.cache
-F:\rcm\documentos\Desarrollo de videojuegos\VisualStudio\FirstProyect\FirstProyect\obj\Debug\FirstProyect.exe
-F:\rcm\documentos\Desarrollo de videojuegos\VisualStudio\FirstProyect\FirstProyect\obj\Debug\FirstProyect.pdb

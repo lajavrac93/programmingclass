@@ -1,7 +1,0 @@
-F:\rcm\documentos\Desarrollo de videojuegos\VisualStudio\QuePuedoHacer\QuePuedoHacer\bin\Debug\QuePuedoHacer.exe.config
-F:\rcm\documentos\Desarrollo de videojuegos\VisualStudio\QuePuedoHacer\QuePuedoHacer\bin\Debug\QuePuedoHacer.exe
-F:\rcm\documentos\Desarrollo de videojuegos\VisualStudio\QuePuedoHacer\QuePuedoHacer\bin\Debug\QuePuedoHacer.pdb
-F:\rcm\documentos\Desarrollo de videojuegos\VisualStudio\QuePuedoHacer\QuePuedoHacer\obj\Debug\QuePuedoHacer.csprojAssemblyReference.cache
-F:\rcm\documentos\Desarrollo de videojuegos\VisualStudio\QuePuedoHacer\QuePuedoHacer\obj\Debug\QuePuedoHacer.csproj.CoreCompileInputs.cache
-F:\rcm\documentos\Desarrollo de videojuegos\VisualStudio\QuePuedoHacer\QuePuedoHacer\obj\Debug\QuePuedoHacer.exe
-F:\rcm\documentos\Desarrollo de videojuegos\VisualStudio\QuePuedoHacer\QuePuedoHacer\obj\Debug\QuePuedoHacer.pdb

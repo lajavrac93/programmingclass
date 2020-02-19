@@ -1,6 +1,0 @@
-F:\rcm\documentos\Desarrollo de videojuegos\VisualStudio\PrimeroMultiploSegundo\PrimeroMultiploSegundo\obj\Debug\PrimeroMultiploSegundo.csproj.CoreCompileInputs.cache
-F:\rcm\documentos\Desarrollo de videojuegos\VisualStudio\PrimeroMultiploSegundo\PrimeroMultiploSegundo\bin\Debug\PrimeroMultiploSegundo.exe.config
-F:\rcm\documentos\Desarrollo de videojuegos\VisualStudio\PrimeroMultiploSegundo\PrimeroMultiploSegundo\bin\Debug\PrimeroMultiploSegundo.exe
-F:\rcm\documentos\Desarrollo de videojuegos\VisualStudio\PrimeroMultiploSegundo\PrimeroMultiploSegundo\bin\Debug\PrimeroMultiploSegundo.pdb
-F:\rcm\documentos\Desarrollo de videojuegos\VisualStudio\PrimeroMultiploSegundo\PrimeroMultiploSegundo\obj\Debug\PrimeroMultiploSegundo.exe
-F:\rcm\documentos\Desarrollo de videojuegos\VisualStudio\PrimeroMultiploSegundo\PrimeroMultiploSegundo\obj\Debug\PrimeroMultiploSegundo.pdb

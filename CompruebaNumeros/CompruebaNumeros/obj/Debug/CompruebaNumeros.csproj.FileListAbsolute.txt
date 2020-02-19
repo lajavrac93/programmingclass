@@ -1,7 +1,0 @@
-F:\rcm\documentos\Desarrollo de videojuegos\VisualStudio\CompruebaNumeros\CompruebaNumeros\bin\Debug\CompruebaNumeros.exe.config
-F:\rcm\documentos\Desarrollo de videojuegos\VisualStudio\CompruebaNumeros\CompruebaNumeros\bin\Debug\CompruebaNumeros.exe
-F:\rcm\documentos\Desarrollo de videojuegos\VisualStudio\CompruebaNumeros\CompruebaNumeros\bin\Debug\CompruebaNumeros.pdb
-F:\rcm\documentos\Desarrollo de videojuegos\VisualStudio\CompruebaNumeros\CompruebaNumeros\obj\Debug\CompruebaNumeros.csprojAssemblyReference.cache
-F:\rcm\documentos\Desarrollo de videojuegos\VisualStudio\CompruebaNumeros\CompruebaNumeros\obj\Debug\CompruebaNumeros.csproj.CoreCompileInputs.cache
-F:\rcm\documentos\Desarrollo de videojuegos\VisualStudio\CompruebaNumeros\CompruebaNumeros\obj\Debug\CompruebaNumeros.exe
-F:\rcm\documentos\Desarrollo de videojuegos\VisualStudio\CompruebaNumeros\CompruebaNumeros\obj\Debug\CompruebaNumeros.pdb

@@ -1,7 +1,0 @@
-F:\rcm\documentos\Desarrollo de videojuegos\VisualStudio\NotasSwitch\NotasSwitch\bin\Debug\NotasSwitch.exe.config
-F:\rcm\documentos\Desarrollo de videojuegos\VisualStudio\NotasSwitch\NotasSwitch\bin\Debug\NotasSwitch.exe
-F:\rcm\documentos\Desarrollo de videojuegos\VisualStudio\NotasSwitch\NotasSwitch\bin\Debug\NotasSwitch.pdb
-F:\rcm\documentos\Desarrollo de videojuegos\VisualStudio\NotasSwitch\NotasSwitch\obj\Debug\NotasSwitch.csprojAssemblyReference.cache
-F:\rcm\documentos\Desarrollo de videojuegos\VisualStudio\NotasSwitch\NotasSwitch\obj\Debug\NotasSwitch.csproj.CoreCompileInputs.cache
-F:\rcm\documentos\Desarrollo de videojuegos\VisualStudio\NotasSwitch\NotasSwitch\obj\Debug\NotasSwitch.exe
-F:\rcm\documentos\Desarrollo de videojuegos\VisualStudio\NotasSwitch\NotasSwitch\obj\Debug\NotasSwitch.pdb

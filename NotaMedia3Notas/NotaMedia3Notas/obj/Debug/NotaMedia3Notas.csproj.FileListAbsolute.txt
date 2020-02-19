@@ -1,6 +1,0 @@
-F:\rcm\documentos\Desarrollo de videojuegos\VisualStudio\NotaMedia3Notas\NotaMedia3Notas\bin\Debug\NotaMedia3Notas.exe.config
-F:\rcm\documentos\Desarrollo de videojuegos\VisualStudio\NotaMedia3Notas\NotaMedia3Notas\bin\Debug\NotaMedia3Notas.exe
-F:\rcm\documentos\Desarrollo de videojuegos\VisualStudio\NotaMedia3Notas\NotaMedia3Notas\bin\Debug\NotaMedia3Notas.pdb
-F:\rcm\documentos\Desarrollo de videojuegos\VisualStudio\NotaMedia3Notas\NotaMedia3Notas\obj\Debug\NotaMedia3Notas.csproj.CoreCompileInputs.cache
-F:\rcm\documentos\Desarrollo de videojuegos\VisualStudio\NotaMedia3Notas\NotaMedia3Notas\obj\Debug\NotaMedia3Notas.exe
-F:\rcm\documentos\Desarrollo de videojuegos\VisualStudio\NotaMedia3Notas\NotaMedia3Notas\obj\Debug\NotaMedia3Notas.pdb
