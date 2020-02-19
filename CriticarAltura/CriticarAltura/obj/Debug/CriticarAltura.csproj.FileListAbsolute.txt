@@ -1,0 +1,7 @@
+F:\rcm\documentos\Desarrollo de videojuegos\VisualStudio\CriticarAltura\CriticarAltura\bin\Debug\CriticarAltura.exe.config
+F:\rcm\documentos\Desarrollo de videojuegos\VisualStudio\CriticarAltura\CriticarAltura\bin\Debug\CriticarAltura.exe
+F:\rcm\documentos\Desarrollo de videojuegos\VisualStudio\CriticarAltura\CriticarAltura\bin\Debug\CriticarAltura.pdb
+F:\rcm\documentos\Desarrollo de videojuegos\VisualStudio\CriticarAltura\CriticarAltura\obj\Debug\CriticarAltura.csprojAssemblyReference.cache
+F:\rcm\documentos\Desarrollo de videojuegos\VisualStudio\CriticarAltura\CriticarAltura\obj\Debug\CriticarAltura.csproj.CoreCompileInputs.cache
+F:\rcm\documentos\Desarrollo de videojuegos\VisualStudio\CriticarAltura\CriticarAltura\obj\Debug\CriticarAltura.exe
+F:\rcm\documentos\Desarrollo de videojuegos\VisualStudio\CriticarAltura\CriticarAltura\obj\Debug\CriticarAltura.pdb

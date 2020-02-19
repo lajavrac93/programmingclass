@@ -1,0 +1,7 @@
+F:\rcm\documentos\Desarrollo de videojuegos\VisualStudio\MenuFrases\MenuFrases\bin\Debug\MenuFrases.exe.config
+F:\rcm\documentos\Desarrollo de videojuegos\VisualStudio\MenuFrases\MenuFrases\bin\Debug\MenuFrases.exe
+F:\rcm\documentos\Desarrollo de videojuegos\VisualStudio\MenuFrases\MenuFrases\bin\Debug\MenuFrases.pdb
+F:\rcm\documentos\Desarrollo de videojuegos\VisualStudio\MenuFrases\MenuFrases\obj\Debug\MenuFrases.csprojAssemblyReference.cache
+F:\rcm\documentos\Desarrollo de videojuegos\VisualStudio\MenuFrases\MenuFrases\obj\Debug\MenuFrases.csproj.CoreCompileInputs.cache
+F:\rcm\documentos\Desarrollo de videojuegos\VisualStudio\MenuFrases\MenuFrases\obj\Debug\MenuFrases.exe
+F:\rcm\documentos\Desarrollo de videojuegos\VisualStudio\MenuFrases\MenuFrases\obj\Debug\MenuFrases.pdb

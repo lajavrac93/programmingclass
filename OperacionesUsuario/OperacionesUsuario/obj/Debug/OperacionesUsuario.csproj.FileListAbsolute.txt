@@ -1,0 +1,6 @@
+F:\rcm\documentos\Desarrollo de videojuegos\VisualStudio\OperacionesUsuario\OperacionesUsuario\bin\Debug\OperacionesUsuario.exe.config
+F:\rcm\documentos\Desarrollo de videojuegos\VisualStudio\OperacionesUsuario\OperacionesUsuario\bin\Debug\OperacionesUsuario.exe
+F:\rcm\documentos\Desarrollo de videojuegos\VisualStudio\OperacionesUsuario\OperacionesUsuario\bin\Debug\OperacionesUsuario.pdb
+F:\rcm\documentos\Desarrollo de videojuegos\VisualStudio\OperacionesUsuario\OperacionesUsuario\obj\Debug\OperacionesUsuario.csproj.CoreCompileInputs.cache
+F:\rcm\documentos\Desarrollo de videojuegos\VisualStudio\OperacionesUsuario\OperacionesUsuario\obj\Debug\OperacionesUsuario.exe
+F:\rcm\documentos\Desarrollo de videojuegos\VisualStudio\OperacionesUsuario\OperacionesUsuario\obj\Debug\OperacionesUsuario.pdb
